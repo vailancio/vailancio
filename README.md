@@ -30,9 +30,10 @@
 
 **Design & Frontend Code**
 **2010**
-
+ - [Timblo Mines](https://vailancio.com/timblomines/)
+ - [i-rix](#)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxNTY2NzkyMSw5NDE3MDIzNzgsMTE5Nz
-k0NzI3OCwxNTE2MjMxNzI1LC0xNjYyOTEwMTU0XX0=
+eyJoaXN0b3J5IjpbNzMyOTcxOTcsOTQxNzAyMzc4LDExOTc5ND
+cyNzgsMTUxNjIzMTcyNSwtMTY2MjkxMDE1NF19
 -->
