@@ -23,9 +23,9 @@
 **2010**
 
  - [Expoentia Capital](https://vailancio.com/expo)
- - 
+ - [Invite Salon]
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDM1NDE4Miw5NDE3MDIzNzgsMTE5Nz
-k0NzI3OCwxNTE2MjMxNzI1LC0xNjYyOTEwMTU0XX0=
+eyJoaXN0b3J5IjpbLTIwODM1MzI5OTQsOTQxNzAyMzc4LDExOT
+c5NDcyNzgsMTUxNjIzMTcyNSwtMTY2MjkxMDE1NF19
 -->
