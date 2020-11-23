@@ -1,7 +1,7 @@
 Frontend Dev Work
 
 May 2020:
-yutheeka.com Marketing Portfolio (https://yutheeka.com/)
+[yutheeka.com](https://yutheeka.com/) Marketing Portfolio
 
 Kosmosk (https://kosmosk.in/)
 
@@ -23,5 +23,5 @@ Kosmosk (https://kosmosk.in/)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NjI5MTAxNTRdfQ==
+eyJoaXN0b3J5IjpbLTcyMDAwNTExMCwtMTY2MjkxMDE1NF19
 -->
