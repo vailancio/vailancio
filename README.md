@@ -1,7 +1,7 @@
 **Frontend Dev Work**
 
 **2020**
- - [Outgro](https://outgro.in/) {:rel="nofollow"}
+ - [Outgro](https://outgro.in/){:rel=nofollow}
  - [Yutheeka.com](https://yutheeka.com/)  
  - [Kosmosk](https://kosmosk.in/)
  - [Dubai Women Establisment](https://dwe.gov.ae/en)
@@ -22,6 +22,6 @@
  - [Wedding Website](https://vailancio.com/wedding/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE5Nzk0NzI3OCw5NDE3MDIzNzgsMTUxNj
-IzMTcyNSwtMTY2MjkxMDE1NF19
+eyJoaXN0b3J5IjpbMjA1OTU3MjU0OCwxMTk3OTQ3Mjc4LDk0MT
+cwMjM3OCwxNTE2MjMxNzI1LC0xNjYyOTEwMTU0XX0=
 -->
