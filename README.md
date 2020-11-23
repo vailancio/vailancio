@@ -21,8 +21,8 @@
  - [Wedding Website](https://vailancio.com/wedding/)
 
 **2010**
--[Expoentia Capital](
+-[Expoentia Capital](https://vailancio.com/expo)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MDY3MzE3MDUsOTQxNzAyMzc4LDExOT
-c5NDcyNzgsMTUxNjIzMTcyNSwtMTY2MjkxMDE1NF19
+eyJoaXN0b3J5IjpbNzY5ODk0ODk5LDk0MTcwMjM3OCwxMTk3OT
+Q3Mjc4LDE1MTYyMzE3MjUsLTE2NjI5MTAxNTRdfQ==
 -->
