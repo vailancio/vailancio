@@ -26,20 +26,20 @@
 
 **2010**
 
- - [Expoentia Capital](https://preview.dev.vailancio.com/staticexpo)
- - [Invite Salon](https://preview.dev.vailancio.com/invite_salon_v2/)
- - [PPT Salon](https://preview.dev.vailancio.com/pptsalon/)
+ - [Expoentia Capital](https://preview.dev.vailancio.com/static/expo)
+ - [Invite Salon](https://preview.dev.vailancio.com/static/invite_salon_v2/)
+ - [PPT Salon](https://preview.dev.vailancio.com/static/pptsalon/)
 
 
 **Design & Frontend Code**
 
 
 **2010**
- - [Timblo Mines](https://preview.dev.vailancio.com/timblomines/)
+ - [Timblo Mines](https://preview.dev.vailancio.com/static/timblomines/)
  - [i-rix](#)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjAyNDg3OTgsNTg2MTQzNjM3LDEwODc5Nz
-gzNDksOTQxNzAyMzc4LDExOTc5NDcyNzgsMTUxNjIzMTcyNSwt
-MTY2MjkxMDE1NF19
+eyJoaXN0b3J5IjpbLTEzNDY4Nzc4NjAsNTg2MTQzNjM3LDEwOD
+c5NzgzNDksOTQxNzAyMzc4LDExOTc5NDcyNzgsMTUxNjIzMTcy
+NSwtMTY2MjkxMDE1NF19
 -->
