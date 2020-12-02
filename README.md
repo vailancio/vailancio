@@ -20,26 +20,26 @@
  - [Axis Bank Mailer](https://preview.dev.vailancio.com/axis-mailer/)
  - [Espace](https://preview.dev.vailancio.com/espace/)
  - [Experifun](https://preview.dev.vailancio.com/experifun/) 
- - [Guide to Goa](https://vailancio.com/guide_to_goa/) 
- - [Wedding Website](https://vailancio.com/wedding/)
- - [Nascom Mailer](https://vailancio.com/nascom_mailer/mailer.html)
+ - [Guide to Goa](https://preview.dev.vailancio.com/guide_to_goa/) 
+ - [Wedding Website](https://preview.dev.vailancio.com/wedding/)
+ - [Nascom Mailer](https://preview.dev.vailancio.com/nascom_mailer/mailer.html)
 
 **2010**
 
- - [Expoentia Capital](https://vailancio.com/expo)
- - [Invite Salon](https://vailancio.com/invite_salon_v2/)
- - [PPT Salon](https://vailancio.com/pptsalon/)
+ - [Expoentia Capital](https://preview.dev.vailancio.com/expo)
+ - [Invite Salon](https://preview.dev.vailancio.com/invite_salon_v2/)
+ - [PPT Salon](https://preview.dev.vailancio.com/pptsalon/)
 
 
 **Design & Frontend Code**
 
 
 **2010**
- - [Timblo Mines](https://vailancio.com/timblomines/)
+ - [Timblo Mines](https://preview.dev.vailancio.com/timblomines/)
  - [i-rix](#)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxNTkxNjAwLDEwODc5NzgzNDksOTQxNz
+eyJoaXN0b3J5IjpbNTg2MTQzNjM3LDEwODc5NzgzNDksOTQxNz
 AyMzc4LDExOTc5NDcyNzgsMTUxNjIzMTcyNSwtMTY2MjkxMDE1
 NF19
 -->
