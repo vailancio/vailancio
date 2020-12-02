@@ -7,19 +7,19 @@
  - [Dubai Women Establisment](https://dwe.gov.ae/en/dwe-initiatives)
 
 **2016**
- - [Fullmonty](https://vailancio.com/fullmonty/)
+ - [Fullmonty](https://preview.dev.vailancio.com/fullmonty/)
 
 **2014**
- - [Spanish Website](https://vailancio.com/spanish_site/)
- - [Inkbrush Studios](https://vailancio.com/inkbrush/)
+ - [Spanish Website](https://preview.dev.vailancio.com/spanish_site/)
+ - [Inkbrush Studios](https://preview.dev.vailancio.com/inkbrush/)
 
 **2012**
-- [vServ.mobi](https://vailancio.com/vserv/)
+- [vServ.mobi](https://preview.dev.vailancio.com/vserv/)
 
 **2011**
- - [Axis Bank Mailer](https://vailancio.com/axis-mailer/)
- - [Espace](https://vailancio.com/espace/)
- - [Experifun](https://vailancio.com/experifun/) 
+ - [Axis Bank Mailer](https://preview.dev.vailancio.com/axis-mailer/)
+ - [Espace](https://preview.dev.vailancio.com/espace/)
+ - [Experifun](https://preview.dev.vailancio.com/experifun/) 
  - [Guide to Goa](https://vailancio.com/guide_to_goa/) 
  - [Wedding Website](https://vailancio.com/wedding/)
  - [Nascom Mailer](https://vailancio.com/nascom_mailer/mailer.html)
@@ -39,6 +39,7 @@
  - [i-rix](#)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4Nzk3ODM0OSw5NDE3MDIzNzgsMTE5Nz
-k0NzI3OCwxNTE2MjMxNzI1LC0xNjYyOTEwMTU0XX0=
+eyJoaXN0b3J5IjpbMjAxNTkxNjAwLDEwODc5NzgzNDksOTQxNz
+AyMzc4LDExOTc5NDcyNzgsMTUxNjIzMTcyNSwtMTY2MjkxMDE1
+NF19
 -->
