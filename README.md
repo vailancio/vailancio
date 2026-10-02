@@ -7,7 +7,7 @@ Technical architect based in Goa, India, with 17+ years designing and delivering
 - System and solution architecture: HLD/SDD, API strategy, microservices, event-driven design
 - Hands-on full-stack development: TypeScript, Node.js/Express, React
 - Cloud-native delivery on AWS (EC2/ECS, ALB, CloudFront, auto-scaling) and DigitalOcean: blue/green deployments, CI/CD with Jenkins and GitHub Actions, Docker
-- Data layer: MySQL first, plus working knowledge of PostgreSQL, MongoDB, Redis, Elasticsearch
+- Databases: MySQL, with working knowledge of PostgreSQL, MongoDB, Redis, Elasticsearch
 - AI integration: generative AI platforms and agentic workflows. Hands-on with Trae and agentic coding every day; I know which models to reach for and where their limits are
 - Presales and leadership: RFP responses, technical ballparks, mentoring teams, UX-architecture collaboration
 
