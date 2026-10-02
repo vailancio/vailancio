@@ -18,7 +18,7 @@ Technical architect based in Goa, India, with 17+ years designing and delivering
 - **Quartic.ai, Senior UX Engineer, contract (2018)**: React interfaces for industrial AI data-visualisation products
 - **Next Big Thing Media, Product Tech Lead (2015-2017)**: led the zero-downtime migration of a 300,000-member, 19M-photo travel platform from physical servers to AWS, reaching 99.99% uptime; trilingual platform (Swedish, English, German)
 - **Prelante, Founder and Web Developer (2008-2014)**: boutique web agency serving clients across India, Europe and the US
-- **Smashing Media, Content Writer and Producer, remote (2008-2010)**: technical articles for Smashing Magazine, working with a European team
+- **Smashing Media, Content Writer and Producer, remote (2008-2010)**: authored photography showcases (infrared, aerial, high-speed, underwater) and Photoshop tutorial roundups for Smashing Magazine, working with a European team
 
 ## Education and certifications
 
