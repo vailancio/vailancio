@@ -1,6 +1,6 @@
 # Hi, I'm Vailancio
 
-Technical architect based in Goa, India, with 17+ years designing and delivering large-scale web platforms. Most recently Technical Architect at Kilowott (2021-2025), where I architected Skilly AI, a conversational intelligence platform built on generative AI. I work worldwide: remote, relocation, contract, or consulting.
+Technical architect based in Goa, India, with 17+ years designing and delivering large-scale web platforms. Most recently Technical Architect at Kilowott (2021-2025), where I architected a conversational intelligence platform built on generative AI. I work worldwide: remote, relocation, contract, or consulting.
 
 ## What I do
 
@@ -13,7 +13,7 @@ Technical architect based in Goa, India, with 17+ years designing and delivering
 
 ## Career highlights
 
-- **Kilowott, Technical Architect (2021-2025)**: architected and led Skilly AI from inception; led cloud-native adoption across AWS and DigitalOcean; drove presales with RFP responses and proof-of-concepts that won business
+- **Kilowott, Technical Architect (2021-2025)**: architected and led a conversational intelligence platform from inception; led cloud-native adoption across AWS and DigitalOcean; drove presales with RFP responses and proof-of-concepts that won business
 - **Prelante, Founder and Tech Consultant (2018-2020)**: end-to-end full-stack products for startups (React/Laravel), plus architecture consulting and launch support
 - **Quartic.ai, Senior UX Engineer, contract (2018)**: React interfaces for industrial AI data-visualisation products
 - **Next Big Thing Media, Product Tech Lead (2015-2017)**: led the zero-downtime migration of a 300,000-member, 19M-photo travel platform from physical servers to AWS, reaching 99.99% uptime; trilingual platform (Swedish, English, German)
