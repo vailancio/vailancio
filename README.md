@@ -8,8 +8,8 @@ Technical architect based in Goa, India, with 17+ years designing and delivering
 - Hands-on full-stack development: TypeScript, Node.js/Express, React
 - Cloud-native delivery on AWS (EC2/ECS, ALB, CloudFront, auto-scaling) and DigitalOcean: blue/green deployments, CI/CD with Jenkins and GitHub Actions, Docker
 - Databases: MySQL, with working knowledge of PostgreSQL, MongoDB, Redis, Elasticsearch
-- AI integration: generative AI platforms and agentic workflows. Hands-on with Trae and agentic coding every day; I know which models to reach for and where their limits are
-- Presales and leadership: RFP responses, technical ballparks, mentoring teams, UX-architecture collaboration
+- AI integration: generative AI platforms and agentic workflows. Hands-on with Trae, Antigravity, and agentic coding every day; I know which models to reach for and where their limits are
+- Presales and leadership: RFP responses, technical ballparks and estimates, mentoring teams, UX-architecture collaboration
 
 ## Career highlights
 
@@ -23,7 +23,8 @@ Technical architect based in Goa, India, with 17+ years designing and delivering
 ## Education and certifications
 
 - MCA, Goa University; BSc (Physics), Goa University
-- Coursera: Developing Innovative Ideas for New Companies; Creative Programming for Digital Media and Mobile Apps
+- Coursera: Developing Innovative Ideas for New Companies
+- Coursera: Creative Programming for Digital Media and Mobile Apps
 - Cambridge ESOL International Business English
 
 ## Open to
